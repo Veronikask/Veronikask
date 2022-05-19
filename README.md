@@ -6,6 +6,7 @@ I am completing a 12-month education program “Data analyst” from Yandex.Prac
 
 ****I am looking for a job or internship, open to new challenges and interesting tasks.****
 <br />
+<br />
 
 ### Languages and Tools:
 
@@ -22,7 +23,7 @@ Mathematical statistics.
 
 
 <br />
-![Flutter](https://img.shields.io/badge/<flutter>-090909)
+
 
 
 ### Connect with me:
