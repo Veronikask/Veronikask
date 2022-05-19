@@ -4,7 +4,7 @@ My name is Veronika and I am a junior specialist in DATA ANALYTICS. My previous 
 
 I am completing a 12-month education program “Data analyst” from Yandex.Practikum.
 
-****I am looking for a job or internship, open to new challenges and interesting tasks.
+****I am looking for a job or internship, open to new challenges and interesting tasks.****
 <br />
 
 ### Languages and Tools:
