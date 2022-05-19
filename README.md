@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-My name is Veronika and I am a junior specialist in DATA ANALYTICS.  I am completing a 12-month education program “Data analyst” from Yandex.Practikum and now I am looking for a job or internship.
+My name is Veronika and I am a junior specialist in DATA ANALYTICS.  
+
+I am completing a 12-month education program “Data analyst” from Yandex.Practikum and now I am looking for a job or internship.
 
 ### Hard skills:
 –	Python (pandas, numpy, matplotlib, seaborn);
