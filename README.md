@@ -20,7 +20,8 @@ Mathematical statistics.
 
 ### Connect with me:
 @stella_diurna 
+
 stella_diurna@yandex.ru 
 
 	
-<a href="https://telegram.im/@<stella_diurna>" target="_blank">Telegram</a>
+<a href="https://telegram.im/@<@stella_diurna>" target="_blank">Telegram</a>
