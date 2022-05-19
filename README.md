@@ -14,11 +14,13 @@ SQL
 Tableau
 <img align=" left" alt=" tableau"    width="26px" src="https://cdn.filepicker.io/api/file/jZDILlufSOSDOkuJTZ7J" />
 
-–	Mathematical statistics.
+Mathematical statistics.
 
 
 
 ### Connect with me:
-[<img align="left" alt="opa_oz | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="opa_oz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="opa_oz | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+@stella_diurna 
+stella_diurna@yandex.ru 
+
+	
+<a href="https://telegram.im/@<stella_diurna>" target="_blank">Telegram</a>
