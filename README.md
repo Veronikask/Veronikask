@@ -12,6 +12,8 @@ SQL
 <img align=" left" alt=" SQL"    width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 
 Tableau
+<img align=" left" alt=" tableau"    width="26px" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/tableau.jpg" />
+
 <img align="left" alt="tableau" width="70" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/tableau.jpg" /
 
 –	Mathematical statistics.
