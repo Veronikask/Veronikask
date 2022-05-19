@@ -22,6 +22,8 @@ Mathematical statistics.
 
 
 <br />
+![Flutter](https://img.shields.io/badge/<flutter>-090909)
+
 
 ### Connect with me:
 
