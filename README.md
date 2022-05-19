@@ -25,5 +25,5 @@ Mathematical statistics.
 
 ### Connect with me:
 
-@stella_diurna (Telegram)
+@stella_diurna (Telegram)<br />
 stella_diurna@yandex.ru 
