@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Veronika and I am a junior specialist in DATA ANALYTICS.  
+My name is Veronika and I am a junior specialist in DATA ANALYTICS. My previous experience was financial analyst. 
 
 I am completing a 12-month education program “Data analyst” from Yandex.Practikum and now I am looking for a job or internship.
 
@@ -13,7 +13,6 @@ SQL <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.
 
 –	Mathematical statistics.
 
-My previous experience – financial analyst.
 
 
 ### Connect with me:
