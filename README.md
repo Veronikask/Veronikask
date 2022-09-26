@@ -23,11 +23,11 @@ Mathematical statistics
 
 Product and marketing analytics
 
-Hypothesis testing and statistical data analysis.
+Hypothesis testing and statistical data analysis
 
 A/B testing
 
-Fundamentals of machine learning.
+Fundamentals of machine learning
 
 
 <br />
