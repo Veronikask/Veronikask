@@ -19,7 +19,15 @@ SQL
 Tableau
 <img align=" left" alt=" tableau"    width="26px" src="https://cdn.filepicker.io/api/file/jZDILlufSOSDOkuJTZ7J" />
 
-Mathematical statistics.
+Mathematical statistics
+
+Product and marketing analytics
+
+Hypothesis testing and statistical data analysis.
+
+A/B testing
+
+Fundamentals of machine learning.
 
 
 <br />
