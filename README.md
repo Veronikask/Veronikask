@@ -2,7 +2,8 @@
 
 My name is Veronika and I am a junior specialist in DATA ANALYTICS. My previous experience was financial analyst. 
 
-I have completed a 12-month education program “Data analyst” from Yandex.Practikum.
+I have completed a 12-month education program “Data analyst” from Yandex.Practikum ([Ссылка на диплом](https://github.com/Veronikask/Veronikask/blob/6283f7bebfcbb00f23ea7df6c9e3f204f799fba9/Skorokhodova%20Veronika_20222DAP00051.pdf)
+).
 
 ****I am looking for a job or internship, open to new challenges and interesting tasks.****
 <br />
